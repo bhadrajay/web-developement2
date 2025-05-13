@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-// project demo of git hub.........
-=======
-// project demo of git hub...
->>>>>>> master
+//ndfjvnfdn
